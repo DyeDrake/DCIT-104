@@ -1,3 +1,7 @@
+// ID 10979076
+// Clifford Anim Boateng
+// I certify that, I Clifford Boateng, I wrote this code all by myself.
+
 #include <iostream>
 #include <numeric>
 #include <vector>
