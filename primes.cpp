@@ -35,5 +35,5 @@ using namespace std;
      cout << "Sum of the primes is: "<< sum;
 
         // cout << "sum is: " << sum << endl;
-    return 0;
+    return true;
 }
